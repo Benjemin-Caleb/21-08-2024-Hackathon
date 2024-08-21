@@ -1,0 +1,69 @@
+{
+    "children": [
+        {
+            "id": 1,
+            "name": "Boopathi",
+            "age": null,
+            "vaccinations": [],
+            "appointments": [
+                {
+                    "vaccine": "Flu vaccine",
+                    "appointment_date": "2024-08-23",
+                    "reminder_sent": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Showrish",
+            "age": null,
+            "vaccinations": [],
+            "appointments": [
+                {
+                    "vaccine": "Covishield",
+                    "appointment_date": "2024-08-28",
+                    "reminder_sent": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Benjemin",
+            "age": null,
+            "vaccinations": [],
+            "appointments": [
+                {
+                    "vaccine": "Sputnik-V",
+                    "appointment_date": "2024-09-01",
+                    "reminder_sent": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Caleb",
+            "age": "20",
+            "vaccinations": [],
+            "appointments": [
+                {
+                    "vaccine": "Covaxin",
+                    "appointment_date": "2024-11-04",
+                    "reminder_sent": true
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Sundar",
+            "age": "21",
+            "vaccinations": [],
+            "appointments": [
+                {
+                    "vaccine": "Pfizer",
+                    "appointment_date": "2024-09-05",
+                    "reminder_sent": false
+                }
+            ]
+        }
+    ]
+}
